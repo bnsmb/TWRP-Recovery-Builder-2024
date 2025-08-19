@@ -2,8 +2,14 @@
 ```
 only Supports TWRP  (14.1 is not ready yet) / 12.1 / 11 / 9.0
 ```
+**Note**
+
+The default values in this fork of the TWRP Recovery Builder are for creating a recovery for the **ASUS Zenfone 8**.
+
 ---
 ![twrp_jpg](https://s3.bmp.ovh/imgs/2024/10/07/7e8dccdad37f834d.jpg)
+
+
 ## Release Notes
 ```
 = 2025-07-19
